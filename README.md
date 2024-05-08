@@ -1,2 +1,3 @@
 # medium-git-supervivencia
-Repositorio para mostrar comandos básicos para trabajar con Git
+
+Repositorio para mostrar comandos básicos para trabajar con Git 
